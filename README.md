@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/emperor-logo.png" width="280" alt="Logo">
+<img src="assets/emperor-logo.jpg" width="280" alt="Logo">
 
 <br>
 
@@ -9,7 +9,7 @@
 
 **COMPUTER SCIENCE · SOFTWARE DEVELOPMENT · AUTOMATION**
 
-*Into the darkness of code.*
+
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="assets/black-metal-banner.png" width="100%" alt="Dark artwork">
+<img src="assets/black-metal-banner.jpg" width="100%" alt="Dark artwork">
 
 </div>
 
