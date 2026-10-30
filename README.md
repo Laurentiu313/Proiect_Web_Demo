@@ -1,4 +1,28 @@
-# Laurențiu Macari
+
+<div align="center">
+
+<img src="assets/emperor-logo.png" width="280" alt="Logo">
+
+<br>
+
+# LAURENȚIU MACARI
+
+**COMPUTER SCIENCE · SOFTWARE DEVELOPMENT · AUTOMATION**
+
+*Into the darkness of code.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/black-metal-banner.png" width="100%" alt="Dark artwork">
+
+</div>
+
+<br>
+
 
 ### Student interesat de software development \| Computer Science \| Game Development \| Automation
 
@@ -16,7 +40,7 @@ constant cunoștințele prin proiecte practice, colaborare și experiență
 
 ------------------------------------------------------------------------
 
-## Despre mine
+## 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
 
 -   🎓 Absolvent al Liceului Teoretic „Onisifor Ghibu" din Chișinău,
     profil real.
@@ -34,7 +58,7 @@ disponibilitatea de a învăța lucruri noi. Nu îmi propun să prezint
 fiecare tehnologie cu care am lucrat ca pe o competență avansată; prefer
 să evidențiez experiențele concrete și ceea ce am învățat din ele.
 
-## Tehnologii și instrumente cu care am lucrat
+## 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
 
   -----------------------------------------------------------------------
   Tehnologie / instrument             Contextul utilizării
@@ -65,7 +89,7 @@ să evidențiez experiențele concrete și ceea ce am învățat din ele.
 *Lista reflectă instrumentele menționate în proiectele mele de până
 acum, nu o certificare a unui nivel avansat de expertiză.*
 
-## Proiecte și experiență practică
+## 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
 ### 1. Joc dezvoltat la Global Game Jam Chișinău 2025
 
@@ -215,7 +239,8 @@ Sunt conștient că mai am multe de învățat și privesc acest lucru ca pe o
 motivație. Îmi doresc să construiesc o bază tehnică solidă și să evoluez
 prin muncă, curiozitate și experiență.
 
-## Contact
+
+## 𝕮𝖔𝖓𝖙𝖆𝖈𝖙
 
 -   **Nume:** Laurențiu Macari
 -   **E-mail:** \[macarilaurentiu7@gmail.com\]
