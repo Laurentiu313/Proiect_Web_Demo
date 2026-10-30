@@ -218,13 +218,11 @@ prin muncă, curiozitate și experiență.
 ## Contact
 
 -   **Nume:** Laurențiu Macari
--   **GitHub:** \[Adaugă aici linkul profilului tău GitHub\]
--   **E-mail:** \[Adaugă aici adresa ta de e-mail profesională\]
--   **LinkedIn:** \[Adaugă aici profilul LinkedIn, dacă ai unul\]
+-   **E-mail:** \[macarilaurentiu7@gmail.com\]
+
 
 ------------------------------------------------------------------------
 
 *Acest README prezintă parcursul meu de până acum, proiectele la care am
 lucrat, aptitudinile pe care le-am exersat și direcția profesională în
-care îmi doresc să evoluez. Îl voi actualiza pe măsură ce acumulez
-experiență și finalizez proiecte noi.*
+care îmi doresc să evoluez.*
