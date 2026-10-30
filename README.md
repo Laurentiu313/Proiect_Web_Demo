@@ -8,10 +8,6 @@
 
 **𝕮𝕺𝕸𝕻𝖀𝕿𝕰𝕽 𝕾𝕮𝕴𝕰𝕹𝕮𝕰 · 𝕾𝕺𝕱𝕿𝖂𝕬𝕽𝕰 𝕯𝕰𝖁𝕰𝕷𝕺𝕻𝕸𝕰𝕹𝕿 · 𝕬𝖀𝕿𝕺𝕸𝕬𝕿𝕴𝕺𝕹**
 
-<div align="center">
-  <img src="assets/about-me.svg" width="100%" alt="About Me">
-</div>
-
 
 </div>
 
